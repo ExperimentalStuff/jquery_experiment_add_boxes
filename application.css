@@ -1,0 +1,27 @@
+.upper {
+	background-color: #bbbbbb;
+	height: 200px;
+}
+
+.middle {
+	background-color: #dddddd;
+}
+
+.lower {
+	background-color: #bbbbbb;
+	height: 200px;
+}
+
+.box {
+	background-color: #eeeeee;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 80%;
+	height: 50px;
+}
+
+.creater {
+	margin-top: 75px;
+	margin-bottom: 50px;
+	width: 80%; 
+}
